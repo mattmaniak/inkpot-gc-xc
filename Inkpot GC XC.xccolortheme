@@ -143,7 +143,7 @@
 		<key>xcode.syntax.number</key>
 		<string>0.941176 0.678431 0.427451 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.368627 0.827451 0.470588 0.85</string>
+		<string>0.368627 0.827451 0.470588 1</string>
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.188235 0.419608 0.560784 1</string>
 		<key>xcode.syntax.regex</key>

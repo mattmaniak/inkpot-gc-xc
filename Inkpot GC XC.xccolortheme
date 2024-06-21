@@ -30,6 +30,8 @@
 	<string>0.317647 0.356862 0.439215 1</string>
 	<key>DVTFontAndColorVersion</key>
 	<integer>1</integer>
+	<key>DVTLineSpacing</key>
+	<real>1</real>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.18856 0.195 0.22444 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -89,7 +91,7 @@
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0.325122 0.690248 0.213389 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
-	<string>1 0 0 1</string>
+	<string>0.545098 0.545098 0.803922 1</string>
 	<key>DVTSourceTextSelectionColor</key>
 	<string>0.317647 0.356863 0.439216 1</string>
 	<key>DVTSourceTextSyntaxColors</key>

@@ -30,8 +30,6 @@
 	<string>0.317647 0.356862 0.439215 1</string>
 	<key>DVTFontAndColorVersion</key>
 	<integer>1</integer>
-	<key>DVTLineSpacing</key>
-	<real>1.1000000238418579</real>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.18856 0.195 0.22444 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -83,17 +81,17 @@
 	<key>DVTScrollbarMarkerWarningColor</key>
 	<string>0.937255 0.717647 0.34902 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.120543 0.122844 0.141312 1</string>
+	<string>0.105882 0.105882 0.2 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0.138526 0.146864 0.169283 1</string>
+	<string>0.243137 0.243137 0.458824 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0.325122 0.690248 0.213389 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
-	<string>0.258298 0.300954 0.355207 1</string>
+	<string>1 0 0 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.317647 0.356862 0.439215 1</string>
+	<string>0.317647 0.356863 0.439216 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
@@ -123,9 +121,9 @@
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>0.631373 0.403922 0.901961 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>0.991311 0.560764 0.246107 1</string>
+		<string>0.188235 0.419608 0.560784 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.992157 0.560784 0.247059 1</string>
+		<string>0.188235 0.419608 0.560784 1</string>
 		<key>xcode.syntax.identifier.type</key>
 		<string>0.621449 0.943864 0.868194 1</string>
 		<key>xcode.syntax.identifier.type.system</key>

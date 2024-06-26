@@ -14,3 +14,5 @@ install:
 uninstall:
 	rm -f $(COLOR_THEME_PATH)
 	ls -l $(COLOR_THEME_DIR)
+
+reinstall: uninstall install

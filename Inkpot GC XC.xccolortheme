@@ -145,15 +145,15 @@
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.188235 0.419608 0.560784 1</string>
 		<key>xcode.syntax.regex</key>
-		<string>0.989117 0.41558 0.365684 1</string>
+		<string>1 0.803922 0.545098 1</string>
 		<key>xcode.syntax.regex.capturename</key>
-		<string>0.405383 0.717051 0.642088 1</string>
+		<string>1 0.803922 0.545098 1</string>
 		<key>xcode.syntax.regex.charname</key>
-		<string>0.632318 0.402193 0.901151 1</string>
+		<string>1 0.803922 0.545098 1</string>
 		<key>xcode.syntax.regex.number</key>
-		<string>0.814983 0.749393 0.412334 1</string>
+		<string>1 0.803922 0.545098 1</string>
 		<key>xcode.syntax.regex.other</key>
-		<string>1 1 1 0.85</string>
+		<string>1 0.803922 0.545098 1</string>
 		<key>xcode.syntax.string</key>
 		<string>0.941176 0.678431 0.427451 1</string>
 		<key>xcode.syntax.url</key>

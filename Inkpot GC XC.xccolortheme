@@ -30,8 +30,6 @@
 	<string>0.317647 0.356862 0.439215 1</string>
 	<key>DVTFontAndColorVersion</key>
 	<integer>1</integer>
-	<key>DVTLineSpacing</key>
-	<real>1</real>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.18856 0.195 0.22444 1</string>
 	<key>DVTMarkupTextBorderColor</key>
